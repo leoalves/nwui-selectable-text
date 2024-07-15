@@ -1,6 +1,6 @@
-import { VariantProps, cva } from 'class-variance-authority';
 import * as React from 'react';
 import { Text as RNText } from 'react-native';
+import { VariantProps, cva } from 'class-variance-authority';
 
 import { cn } from '~/lib/cn';
 
